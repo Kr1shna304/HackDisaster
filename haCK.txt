@@ -1,0 +1,24 @@
+5 points: proposed solution method (relevance of ideas and approach to the task, completeness of the problem, complexity of implementation);
+10 points: prototype (working minimum functionality, demonstration of capabilities, examples of application);
+5 points: presentation (timing, clarity, accuracy of presentation, answering questions, clarifying details of the approach and implementation).
+
+5-min. video
+With demo
+
+Simulations such as Airsim, make a model of 
+Try to use existing solutions, 
+
+How might we assess building damage and estimate the cost of reconstruction working remotely using advanced technologies?
+
+You can choose a subset of the challenge to address. It is up to your team! Dig in to understand the problem first before ideating solutions, and sprint to iterate your prototypes.
+
+https://www.uadamage.com/
+
+1. https://github.com/BinaLab/RescueNet-A-High-Resolution-Post-Disaster-UAV-Dataset-for-Semantic-Segmentation
+
+2. https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-3278
+
+3. https://www.nature.com/articles/s41597-023-02799-4
+
+https://estimatorflorida.com/construction-cost-per-square-foot/
+https://www.talgov.com/growth/gm_records
